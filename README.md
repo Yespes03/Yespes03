@@ -35,6 +35,6 @@ Soy un apasionado de la tecnología con experiencia en el desarrollo de solucion
 
 ## 🔗 Conéctate Conmigo
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleandroit11@gmail.com)
+correo: aleandroit11@gmail.com
 
 ---
